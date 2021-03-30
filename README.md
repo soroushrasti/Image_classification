@@ -1,4 +1,4 @@
-# Binary image classification problem.
+# Binary image classification
 
  Identify the presence of metastases from 96 x 96px digital images. It includes data exploration, data preprocessing with a pipeline and classification model by using the fine-tuning of a model from **fast.ai**
 
